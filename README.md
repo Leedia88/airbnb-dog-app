@@ -1,24 +1,20 @@
-# README
+# DOG SITTING APP
 
 This README would normally document whatever steps are necessary to get the
-application up and running.
+application up and running....
 
-Things you may want to cover:
+* Ruby version 2.7.4
+* ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-* Ruby version
+* Configuration :
+- Bundle install
+- to implement the database:  
+`rails db:seed `
 
-* System dependencies
+## Pinciples
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* A dogsitter belongs to one city
+* A dog belongs to one city
+* A stroll belongs to one dogsitter
+* A stroll has many dogs
+* A dog has many strolls
