@@ -15,13 +15,12 @@ application up and running....
 
 ## Pinciples
 
-* A user can post gossips on the app
-* A gossip belongs to an user
-* A gossip has one or several tags
-* A user can send a private message to another user
+* A dogsitter belongs to a city
+* A dog belongs to a city
+* A stroll belongs to a dogsitter
+* A dogsitter has many dogs per stroll
+* A dog has many strolls
 
 ## Features to be implemented
 
-* A user can send a message to several recipients
-* A user can comment a gossip
-* A user can comment a comment
+* A dog has many dogsitters
