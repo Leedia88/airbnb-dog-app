@@ -10,7 +10,7 @@ application up and running....
 
 - Bundle install
 - to implement the database:  
-`rails db:reset`
+`rails db:reset`  
 => It is gonna drop and recreate the table, and launch the seed file. Thanks to the 'Faker' gem file.
 
 ## Pinciples
