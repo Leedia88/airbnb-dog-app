@@ -4,7 +4,7 @@ This README would normally document whatever steps are necessary to get the
 application up and running....
 
 * Ruby version 2.7.4
-* ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+* ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) v.5.2.7.1
 
 * Configuration :
 - Bundle install
